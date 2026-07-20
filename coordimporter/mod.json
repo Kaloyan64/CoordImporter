@@ -1,0 +1,22 @@
+{
+	"geode": "5.7.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "kaloyan64.coordimporter",
+	"name": "coordimporter",
+	"version": "v1.0.0",
+	"developer": "Kaloyan64",
+	"description": "this mod lets you improt a txt file with coordinets so you can make levels out of images tutorial: https://sites.google.com/view/how-to-make-cords-for-gd",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	},
+	"resources": {
+        "sprites": [
+            "resources/iconBTN.png"
+        ]
+	}
+}
